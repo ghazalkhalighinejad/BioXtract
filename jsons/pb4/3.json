@@ -1,0 +1,20 @@
+{
+    "Polymer Type": "cellulose propionate",
+    "Substitution Type": "propionate",   
+    "Degree of Substitution": "1.77",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "mixed culture",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [5,42.7],
+            [10,70.4],
+            [15,80.7],
+            [20,83.3],
+            [25,83.9]  ]
+
+}
+}

@@ -1,0 +1,15 @@
+{
+    "Polymer Type": "poly(butylene succinate) ",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "50,000",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "isolated bacteria",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [277,-3]]
+}
+}

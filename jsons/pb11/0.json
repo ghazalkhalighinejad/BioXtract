@@ -1,0 +1,15 @@
+{
+    "Polymer Type": "dextran methacrylate",
+    "Substitution Type": "methacrylate",   
+    "Degree of Substitution": "4",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "39,000",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": []
+
+}
+}

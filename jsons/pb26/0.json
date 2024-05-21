@@ -1,0 +1,14 @@
+{
+    "Polymer Type": "Paramylon",
+    "Substitution Type": "propionate",   
+    "Degree of Substitution": "1.6",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "230,000",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": []
+}
+}

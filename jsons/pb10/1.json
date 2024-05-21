@@ -1,0 +1,21 @@
+{
+    "Polymer Type": "cationic starch",
+    "Substitution Type": "2,3- epoxypropyltrimethylammonium",   
+    "Degree of Substitution": "0.14",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "solid medium",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [1.9950871944258568,	29.931978040966662],
+            [4.746930152606649,	47.95917417379768],
+            [10.80098151137005,	64.28571590760946],
+            [17.336608537049425,	73.12925502170371],
+            [22.70270440499153,	76.5306157203876],
+            [27.587224606017656,	79.59183580789663]]
+
+}
+}

@@ -1,0 +1,17 @@
+{
+    "Polymer Type": "starch acetate",
+    "Substitution Type": "acetate",   
+    "Degree of Substitution": "1.68",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "compost",
+    "Biodegradation":{
+        "header": ["Time (weeks)", "Biodegradation (%)"],
+        "data": [
+            [1,12.7],
+            [12,38.8] ]
+
+}
+}

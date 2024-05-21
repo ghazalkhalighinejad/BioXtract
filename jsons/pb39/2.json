@@ -1,0 +1,23 @@
+{
+    "Polymer Type": "cellulose",
+    "Substitution Type": "dodecyl ester",   
+    "Degree of Substitution": "0.45",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+    "data": [
+
+        [11.884357341200374,	0.0886878139951238],
+        [26.98073030779131,	0.11402720914924407],
+        [36.29550945644572,	0.11764706356186354],
+        [45.28906988867783,	0.1158371363555538],
+        [61.02783127701838,	0.11945699076817326],
+        [77.08778687623375,	0.13393668459584054]     ]
+}
+
+}
+

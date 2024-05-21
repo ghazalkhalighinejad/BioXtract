@@ -1,0 +1,19 @@
+{
+    "Polymer Type": "dextran",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "70,000",
+    "Molecular weight unit": "amu",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [-0.11477804866809305,	100],
+            [2.840744116582396,	88.59180262008167],
+            [3.8737443653860195,	54.545459181693374],
+            [8.350070749768028,	27.09446218998339],
+            [16.097559480540067,	-0.5347648035967125] ]
+}
+}

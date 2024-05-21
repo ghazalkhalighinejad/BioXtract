@@ -1,0 +1,17 @@
+{
+    "Polymer Type": "cellulose",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [28,  71.3 ],
+            [60,80.6],
+            [90, 81] ]
+}
+}

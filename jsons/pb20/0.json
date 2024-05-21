@@ -1,0 +1,14 @@
+{
+    "Polymer Type": "cellulose acetate butyrate",
+    "Substitution Type": "acetate butyrate",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "compost",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": []
+}
+}

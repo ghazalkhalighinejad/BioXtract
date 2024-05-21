@@ -1,0 +1,22 @@
+
+{
+    "Polymer Type": "Octenyl Succinate Starch",
+    "Substitution Type": "Octenyl Succinate",   
+    "Degree of Substitution": "0.03",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+    "data": [
+
+        [1.0221238924982927,16.577712563959047],
+        [2.013274512730476,35.039248261558136],
+        [3.0353981098429363,55.94976912399826],
+        [4.026548730075118,84.3956040797256],
+        [4.971238703443555,85.90266689838306]            ]
+}
+
+}

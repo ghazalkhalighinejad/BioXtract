@@ -1,0 +1,27 @@
+{
+    "Polymer Type": "polyvinyl alcohol",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "112,981",
+    "Molecular weight unit": "Da",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+    "data": [
+
+        [3.8479806140909925,0.9891892929857461],
+        [7.909739559951609,0.9459460353456649],
+        [12.099760938110984,0.8540540935292547],
+        [16.20427294074666,	0.7702703430671843],
+        [20.394297580879613,	0.5405405916260942],
+        [24.37054552022974,	0.48918919418164086],
+        [28.218526134320737,	0.3270270166938126],
+        [32.70783358878664,	0.11081078004337509],
+        [36.12826080131196,	0.013513514790652405]            ]
+}
+
+}
+
+

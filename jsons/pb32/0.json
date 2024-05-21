@@ -1,0 +1,17 @@
+{
+    "Polymer Type": "Polyethylene glycol",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "300",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+    "data": [
+
+        [14,99]
+    ]
+    }
+}

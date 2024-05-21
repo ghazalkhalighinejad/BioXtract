@@ -1,0 +1,21 @@
+{
+    "Polymer Type": "EOPO block polymer",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "22,000",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "OECD",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [0,0],
+            [15.324674713448726,2.0264992124567973],
+            [28.831165582016926,9.976619741132815],
+            [70.2597400184666,32.813719827877776],
+            [42.467529556163676,19.173810304291248],
+            [84.67532280947505,49.4933751968858]  
+        ]
+}
+}

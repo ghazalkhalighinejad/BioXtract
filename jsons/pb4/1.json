@@ -1,0 +1,18 @@
+{
+    "Polymer Type": "cellulose acetate",
+    "Substitution Type": "acetate",   
+    "Degree of Substitution": "2.07",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "mixed culture",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [5,32.9],
+            [10,52.4],
+            [15,60.3]   ]
+
+}
+}

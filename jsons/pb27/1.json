@@ -1,0 +1,15 @@
+{
+    "Polymer Type": "hydroxyethyl cellulose",
+    "Substitution Type": "hydroxyethyl",   
+    "Degree of Substitution": "1.03",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "2,732,606",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (min)", "Biodegradation (%)"],
+        "data": [
+            [60,3.39]]
+}
+}

@@ -1,0 +1,32 @@
+{
+    "Polymer Type": "poly (vinyl alcohol)",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "88",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "isolated bacteria",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [0,-0.073098297],
+            [3.059274085,0.365497063],
+            [4.971319932,1.096491188],
+            [7.122369687,1.388889954],
+            [10.03824252,2.266080674],
+            [14.05353588,3.874271096],
+            [17.01720913,4.678363519],
+            [20.93690166,9.137426569],
+            [23.85277085,12.06140307],
+            [26.00382243,20.4678383],
+            [29.0152961,32.23684261],
+            [31.88336487,34.06432792],
+            [35.94646229,36.98830443],
+            [39.86615847,38.230995],
+            [43.83365506,39.10818711],
+            [46.98852633,39.47368417]   ]
+    }
+ 
+}
+

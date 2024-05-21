@@ -1,0 +1,16 @@
+{
+    "Polymer Type": "cellulose hexanoate",
+    "Substitution Type": "hexanoate",   
+    "Degree of Substitution": "0.06",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [10,62]]
+
+}
+}

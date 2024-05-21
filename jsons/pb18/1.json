@@ -1,0 +1,19 @@
+{
+    "Polymer Type": "BRS30CH70",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "compost",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [3.2065771808502044,	14.249992370605483],
+            [6.310381010225898,	30.249996185302745],
+            [9.804728279867197,	48.99999618530274],
+            [13.278519310992776,	60.50000190734863],
+            [17.08119290794089,	71.99999809265137       ]]
+}
+}

@@ -1,0 +1,21 @@
+{
+    "Polymer Type": "dextran decanoate",
+    "Substitution Type": "decanoate",   
+    "Degree of Substitution": "21",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "40,000",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (hours)", "Biodegradation (%)"],
+        "data": [
+            [0.2486289929401601,	-0.02358454493452224],
+            [0.4460696309862763,	-0.02358454493452224],
+            [1.0018281953825148,	0.023585444627242606],
+            [1.9890311066590036,	0.09433997912352969],
+            [2.990859580995611,	0.07075453449628877],
+            [4.021938065636084,	0 ] ]
+
+}
+}

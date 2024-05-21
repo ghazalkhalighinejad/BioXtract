@@ -1,0 +1,15 @@
+{
+    "Polymer Type": "methyl cellulose",
+    "Substitution Type": "methyl",   
+    "Degree of Substitution": "1.8",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "14.0 x 10^5",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [30,   5.9]]
+}
+}

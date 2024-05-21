@@ -1,0 +1,20 @@
+{
+    "Polymer Type": " dextran [N-(2-aminoethyl)]carbamate",
+    "Substitution Type": "[N-(2-aminoethyl)]carbamate",   
+    "Degree of Substitution": "3.25",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "72,100",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (min)", "Biodegradation (%)"],
+        "data": [
+            [0.5256490404102937,	0.03296653027551811],
+            [34.693358024943635,	0.5604398178314348],
+            [65.70713266256412,	2.1758243243859297],
+            [124.58070748644109,	2.934064581462992],
+            [185.55695868086144,	5.142857322513216],
+            [303.3041083286154,	6.412087287610309] ]
+}
+}

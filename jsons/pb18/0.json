@@ -1,0 +1,20 @@
+{
+    "Polymer Type": "chitosan",
+    "Substitution Type": "null",   
+    "Degree of Substitution": "null",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "compost",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [3.24768808966083,	6.999988555908217],
+            [6.6803697801965995,	15.749988555908196],
+            [9.948612540152334,	25.749988555908196],
+            [13.278519310992776,	36.499996185302734],
+            [17.266186508815835,	46.49999618530275],
+            [20.020556238515724,	53.00000190734864 ]]
+}
+}

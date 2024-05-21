@@ -1,0 +1,21 @@
+{
+    "Polymer Type": " dextran [N-(2-hydroxypropyl)]carbamate",
+    "Substitution Type": "[N-(2-hydroxypropyl)]carbamate",   
+    "Degree of Substitution": "1.18",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "72,100",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (min)", "Biodegradation (%)"],
+        "data": [
+            [1.0513181330461379,	0.03296653027551811],
+            [17.34669906469736,	0.5934063481069541],
+            [31.539423678030776,	2.126373271380134],
+            [64.65583458174353,	3.362637020599837],
+            [127.73468193780505,	5.439560496566694],
+            [211.8398117458871,	6.543955923897418           ] ]
+
+}
+}

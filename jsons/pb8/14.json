@@ -1,0 +1,16 @@
+{
+    "Polymer Type": "cellulose laurate",
+    "Substitution Type": "laurate",   
+    "Degree of Substitution": "0.55",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [10,0] ]
+
+}
+}

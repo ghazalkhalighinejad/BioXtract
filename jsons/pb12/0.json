@@ -1,0 +1,20 @@
+{
+    "Polymer Type": "dextran dialdehyde",
+    "Substitution Type": "dialdehyde",   
+    "Degree of Substitution": "1",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "72,100",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (min)", "Biodegradation (%)"],
+        "data": [
+            [18.759315717195204,	0.08241632424926634],
+            [61.48884499305404,	4.120879092088084],
+            [133.92060924591678,	7.967032911370296],
+            [158.41190662530514,	8.54395556506513],
+            [214.6898338988172,	9.395604539559582] ]
+
+}
+}

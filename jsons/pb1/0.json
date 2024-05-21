@@ -1,0 +1,23 @@
+{
+    "Polymer Type": "carboxymethyl cellulose",
+    "Substitution Type": "carboxymethyl",   
+    "Degree of Substitution": "0.7",
+    "Comonomer Type": "null",
+    "Degree of Hydrolysis": "null",
+    "Molecular Weight": "null",
+    "Molecular Weight unit": "null",
+    "Biodegradation Test Type": "OECD",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [0,0],
+            [5.45454162633676,5.144192138244883],
+            [16.10389353031044,13.873732925104242],
+            [28.311688022159935,24.162120174857645],
+            [42.07792014773282,37.80202672518049],
+            [56.493502938741265,46.531567512039864],
+            [84.54545961220134,49.72720157166718],
+            [109.48053110990973,55.105221571325245]  
+        ]
+    }
+}

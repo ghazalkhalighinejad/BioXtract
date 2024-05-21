@@ -1,0 +1,22 @@
+{
+    "Polymer Type": " dextran monosuccinate ester",
+    "Substitution Type": "monosuccinate ester",   
+    "Degree of Substitution": "2.23",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "72,100",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (min)", "Biodegradation (%)"],
+        "data": [
+            [1.0513181330461379,	0.03296653027551811],
+            [35.744696210215324,	0.89010952216043],
+            [70.96370327556922,	2.6703298240738103],
+            [97.7722053810052,	3.461538497815168],
+            [123.52940940562053,	4.434065603256913],
+            [200.80098137501545,	5.752746935757931],
+            [247.5844678516513,	6.708791090460045        ] ]
+
+}
+}

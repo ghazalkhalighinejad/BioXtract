@@ -1,0 +1,22 @@
+{
+    "Polymer Type": "hydroxypropyl xylan",
+    "Substitution Type": "hydroxypropyl",   
+    "Degree of Substitution": "1.95",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+        "data": [
+            [0.047336558646273,	0],
+            [0.9467456191171256,	-1.0526385041252166],
+            [3.218936549617402,	0.30074730245052567],
+            [4.970414500364915,	0.9022533801257574],
+            [7.337278548157734,	1.6541331090262466],
+            [10.177515405509114,	3.6090192568901305],
+            [13.159765550347236,	3.458634132890682],
+            [15.053256788581493,	3.6090192568901305   ] ]
+}
+}

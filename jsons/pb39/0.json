@@ -1,0 +1,22 @@
+{
+    "Polymer Type": "cellulose",
+    "Substitution Type": "phenyl ester",   
+    "Degree of Substitution": "0.14",
+    "Comonomer type": "null",
+    "Degree of hydrolysis": "null",
+    "Molecular weight": "null",
+    "Molecular weight unit": "null",
+    "Biodegradation Test Type": "enzyme",
+    "Biodegradation":{
+        "header": ["Time (days)", "Biodegradation (%)"],
+    "data": [
+
+        [13.169158690247103,	0.11221714385433976],
+        [26.0171231696194,	0.1828054096091768],
+        [36.61670366732052,	0.2733031508106103],
+        [44.96787567780301,	0.36923081171956734],
+        [61.02783127701838,	0.5375564584567799],
+        [77.40898108710856,	0.7022624579142643]        ]
+}
+
+}
